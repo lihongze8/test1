@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 # 初始化 OpenAI 客户端
 client = OpenAI(
-    api_key="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",
+    api_key="****************************************************************",
     base_url="https://openrouter.ai/api/v1"
 )
 
